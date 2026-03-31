@@ -197,6 +197,7 @@
     - [GCP - Spanner Enum](pentesting-cloud/gcp-security/gcp-services/gcp-spanner-enum.md)
     - [GCP - Stackdriver Enum](pentesting-cloud/gcp-security/gcp-services/gcp-stackdriver-enum.md)
     - [GCP - Storage Enum](pentesting-cloud/gcp-security/gcp-services/gcp-storage-enum.md)
+    - [GCP - Vertex AI Agent Engine Abuse](pentesting-cloud/gcp-security/gcp-services/gcp-vertex-ai-agent-engine-abuse.md)
     - [GCP - Vertex AI Enum](pentesting-cloud/gcp-security/gcp-services/gcp-vertex-ai-enum.md)
     - [GCP - Workflows Enum](pentesting-cloud/gcp-security/gcp-services/gcp-workflows-enum.md)
   - [GCP <--> Workspace Pivoting](pentesting-cloud/gcp-security/gcp-to-workspace-pivoting/README.md)
